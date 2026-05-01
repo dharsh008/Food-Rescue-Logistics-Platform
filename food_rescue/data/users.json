@@ -1,0 +1,62 @@
+[
+    {
+        "name": "KOKILA A",
+        "password": "kokila098##",
+        "role": "Donor"
+    },
+    {
+        "name": "NGO",
+        "password": "ngo95##$$",
+        "role": "NGO"
+    },
+    {
+        "name": "murugesh",
+        "password": "murugesh098##",
+        "role": "Volunteer"
+    },
+    {
+        "name": "Aravind",
+        "password": "aravind123$$",
+        "role": "Donor"
+    },
+    {
+        "name": "kaviya",
+        "password": "kaviay123$$",
+        "role": "Donor"
+    },
+    {
+        "name": "dharshini",
+        "password": "dharsh456$$",
+        "role": "Donor"
+    },
+    {
+        "name": "gowtham",
+        "password": "booklet08",
+        "role": "Donor"
+    },
+    {
+        "name": "diwakar",
+        "password": "diwa",
+        "role": "Orphanage"
+    },
+    {
+        "name": "NGO2",
+        "password": "ngo",
+        "role": "NGO"
+    },
+    {
+        "name": "akash",
+        "password": "akash098##",
+        "role": "Volunteer"
+    },
+    {
+        "name": "mudhiyor illam",
+        "password": "12345",
+        "role": "Orphanage"
+    },
+    {
+        "name": "koushick",
+        "password": "gowtham08",
+        "role": "Volunteer"
+    }
+]
